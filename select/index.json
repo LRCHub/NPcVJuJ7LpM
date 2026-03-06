@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "いらない",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-03-06T16:10:55.321944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いらない",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/01_いらない_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いらない",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_いらない_サカナクション.txt"
+    }
+  ]
+}
